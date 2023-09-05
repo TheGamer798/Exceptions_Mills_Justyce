@@ -1,0 +1,14 @@
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\obj\Debug\net6.0\Exceptions_Mills_Justyce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\obj\Debug\net6.0\Exceptions_Mills_Justyce.AssemblyInfoInputs.cache
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\obj\Debug\net6.0\Exceptions_Mills_Justyce.AssemblyInfo.cs
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\obj\Debug\net6.0\Exceptions_Mills_Justyce.csproj.CoreCompileInputs.cache
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\bin\Debug\net6.0\Exceptions_Mills_Justyce.exe
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\bin\Debug\net6.0\Exceptions_Mills_Justyce.deps.json
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\bin\Debug\net6.0\Exceptions_Mills_Justyce.runtimeconfig.json
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\bin\Debug\net6.0\Exceptions_Mills_Justyce.dll
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\bin\Debug\net6.0\Exceptions_Mills_Justyce.pdb
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\obj\Debug\net6.0\Exceptions_Mills_Justyce.dll
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\obj\Debug\net6.0\refint\Exceptions_Mills_Justyce.dll
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\obj\Debug\net6.0\Exceptions_Mills_Justyce.pdb
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\obj\Debug\net6.0\Exceptions_Mills_Justyce.genruntimeconfig.cache
+C:\Users\JustyceMills\source\repos\Exceptions_Mills_Justyce\Exceptions_Mills_Justyce\obj\Debug\net6.0\ref\Exceptions_Mills_Justyce.dll
